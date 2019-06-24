@@ -18,13 +18,13 @@ Connect the SOAP based services to your Apollo server 2.0 using [Data Sources][1
 ## Install
 
 ```
-npm install --save apollo-dataSource-soap
+npm install --save apollo-datasource-soap
 ```
 
 or
 
 ```
-yarn add apollo-dataSource-soap
+yarn add apollo-datasource-soap
 ```
 
 ## Usage
